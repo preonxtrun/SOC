@@ -52,7 +52,7 @@ so here is what I learnt in the few weeks.
 
 ---
 ### Week 5,6: Implementation of a segmentation model 
-- Constructed the Architecture based on the learned concepts.
+- Constructed the Architecture based on the ASPP, Resnet, U-net concepts.
 - Used https://www.kaggle.com/code/rajanghimire/segmentation-deeplabv3/notebook as a primary reference for understanding, and building the model
 - Trained the model on the Oxford-IIIT Pet Dataset, since it is in parallel with the reference and also sparked interest in me.
 - Produced over 95% accuracy on test sets.
